@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9566f19e28966bb46b7704433474e9b9
+timeCreated: 1526388701
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spanish Teletext
+  fontNames:
+  - Spanish Teletext
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
